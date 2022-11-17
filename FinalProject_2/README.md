@@ -2,8 +2,8 @@
 
 ### Deployment
 
-Link Deployment : https://app-fp2.herokuapp.com/
-Source Code : https://github.com/arif1403/FP2_H8
+- Link Deployment : https://app-fp2.herokuapp.com/
+- Source Code : https://github.com/arif1403/FP2_H8
 
 ### Overview
 
